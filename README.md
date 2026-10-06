@@ -5,7 +5,7 @@ Focused on building robust RESTful APIs, clean architectures, and data-driven sy
 
 - 🎓 **Tech Education:** Higher Vocational Degree in Multiplatform Application Development (DAM) @ UNIR (2025–Present)
 - 💼 **Main Focus:** Backend Engineering (Java, Spring Boot, SQL, Cloud deployment)
-- 🌍 **Languages:** English (C1 Fluent / Professional Working Proficiency), Spanish (Native), Basque (Native)
+- 🌍 **Languages:** English (C1 Advanced – Cambridge Certified), Spanish (Native), Basque (Native)
 - 📫 **LinkedIn:** [linkedin.com/in/asier-aguirre-moragues](https://www.linkedin.com/in/asier-aguirre-moragues-1a067642b)
 - ✉️ **Contact:** asier.aguirre97@gmail.com
 
